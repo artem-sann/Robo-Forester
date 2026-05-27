@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="V-QXL7IZCa8CXmm1HSHJ">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RD8HMpYS6CO183EYVIUg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="150" width="180" x="225" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-7" edge="1" parent="1" source="RD8HMpYS6CO183EYVIUg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RD8HMpYS6CO183EYVIUg-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-8" edge="1" parent="1" source="RD8HMpYS6CO183EYVIUg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RD8HMpYS6CO183EYVIUg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-9" edge="1" parent="1" source="RD8HMpYS6CO183EYVIUg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RD8HMpYS6CO183EYVIUg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Система мониторинга и осмотра лесных массивов" vertex="1">
+          <mxGeometry height="60" width="280" x="346.5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Автономная платформа с повышенной проходимостью" vertex="1">
+          <mxGeometry height="60" width="150" x="240" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="БПЛА для облета лесных массивов&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="155" x="235" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Зарядная станция и пульт оператора" vertex="1">
+          <mxGeometry height="60" width="146" x="413.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8HMpYS6CO183EYVIUg-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сервера обработки данных" vertex="1">
+          <mxGeometry height="60" width="130" x="570" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

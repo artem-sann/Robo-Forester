@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
+  <diagram name="Страница-1" id="LmBbduPhBeUKbx-NqpcS">
+    <mxGraphModel dx="1471" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zIDgc_ota-53Qjk4DueN-14" edge="1" parent="1" source="vWHNyIm2U-nA7Yj28TR8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;" target="zIDgc_ota-53Qjk4DueN-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-58" edge="1" parent="1" source="vWHNyIm2U-nA7Yj28TR8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.695;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="420" />
+              <mxPoint x="390" y="440" />
+              <mxPoint x="641" y="440" />
+            </Array>
+            <mxPoint x="670" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-84" connectable="0" parent="zIDgc_ota-53Qjk4DueN-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ШИМ" vertex="1">
+          <mxGeometry relative="1" x="0.676" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWHNyIm2U-nA7Yj28TR8-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Мотор оси Колена" vertex="1">
+          <mxGeometry height="60" width="170" x="180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-27" edge="1" parent="1" source="vWHNyIm2U-nA7Yj28TR8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="468" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-65" edge="1" parent="1" source="vWHNyIm2U-nA7Yj28TR8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="sourcePoint" />
+            <mxPoint x="595.4499999999999" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-80" connectable="0" parent="zIDgc_ota-53Qjk4DueN-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ШИМ" vertex="1">
+          <mxGeometry relative="1" x="0.4172" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWHNyIm2U-nA7Yj28TR8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Мотор оси Бедра" vertex="1">
+          <mxGeometry height="60" width="170" x="383" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-13" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;strokeColor=#FF0000;" target="vWHNyIm2U-nA7Yj28TR8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-50" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112" y="120" />
+              <mxPoint x="523" y="120" />
+            </Array>
+            <mxPoint x="120" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-76" connectable="0" parent="zIDgc_ota-53Qjk4DueN-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ШИМ" vertex="1">
+          <mxGeometry relative="1" x="0.7303" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Мотор оси Колеса" vertex="1">
+          <mxGeometry height="60" width="170" x="70" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-12" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;strokeColor=#FF0000;" target="vWHNyIm2U-nA7Yj28TR8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Мотор оси Колеса" vertex="1">
+          <mxGeometry height="60" width="170" x="290" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-18" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;strokeColor=#FF0000;" target="vWHNyIm2U-nA7Yj28TR8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-66" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523" y="370" as="sourcePoint" />
+            <mxPoint x="610" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-82" connectable="0" parent="zIDgc_ota-53Qjk4DueN-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="АЦП" vertex="1">
+          <mxGeometry relative="1" x="0.5327" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%9C%D0%BE%D1%82%D0%BE%D1%80%20%D0%BE%D1%81%D0%B8%20%D0%91%D0%B5%D0%B4%D1%80%D0%B0%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22170%22%20x%3D%22100%22%20y%3D%22380%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;оси Бедра" vertex="1">
+          <mxGeometry height="60" width="110" x="413" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Мотор Фиксатора оси Бедра" vertex="1">
+          <mxGeometry height="60" width="116" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-10" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;" target="zIDgc_ota-53Qjk4DueN-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%9C%D0%BE%D1%82%D0%BE%D1%80%20%D0%BE%D1%81%D0%B8%20%D0%91%D0%B5%D0%B4%D1%80%D0%B0%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22170%22%20x%3D%22100%22%20y%3D%22380%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;оси Колеса" vertex="1">
+          <mxGeometry height="60" width="130" x="90" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-11" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;" target="zIDgc_ota-53Qjk4DueN-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-63" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.865;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="570" />
+              <mxPoint x="490" y="460" />
+              <mxPoint x="670" y="460" />
+            </Array>
+            <mxPoint x="781.5861563846983" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-86" connectable="0" parent="zIDgc_ota-53Qjk4DueN-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="АЦП" vertex="1">
+          <mxGeometry relative="1" x="0.5977" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%9C%D0%BE%D1%82%D0%BE%D1%80%20%D0%BE%D1%81%D0%B8%20%D0%91%D0%B5%D0%B4%D1%80%D0%B0%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22170%22%20x%3D%22100%22%20y%3D%22380%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;оси Колеса" vertex="1">
+          <mxGeometry height="60" width="130" x="310" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-16" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;strokeColor=#FF0000;" target="vWHNyIm2U-nA7Yj28TR8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-61" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.631;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="360" />
+              <mxPoint x="360" y="410" />
+              <mxPoint x="400" y="410" />
+              <mxPoint x="400" y="430" />
+              <mxPoint x="630" y="430" />
+            </Array>
+            <mxPoint x="610" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-83" connectable="0" parent="zIDgc_ota-53Qjk4DueN-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="АЦП" vertex="1">
+          <mxGeometry relative="1" x="0.7616" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%9C%D0%BE%D1%82%D0%BE%D1%80%20%D0%BE%D1%81%D0%B8%20%D0%91%D0%B5%D0%B4%D1%80%D0%B0%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22170%22%20x%3D%22100%22%20y%3D%22380%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;оси Бедра" vertex="1">
+          <mxGeometry height="60" width="110" x="210" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-25" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;" target="zIDgc_ota-53Qjk4DueN-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конц&amp;nbsp;&lt;div&gt;перек-ель&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="323" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-26" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#FF0000;" target="zIDgc_ota-53Qjk4DueN-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конц&amp;nbsp;&lt;div&gt;перек-ель&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="493" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-70" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zIDgc_ota-53Qjk4DueN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-77" connectable="0" parent="zIDgc_ota-53Qjk4DueN-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ШИМ" vertex="1">
+          <mxGeometry relative="1" x="-0.2903" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-95" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-49" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Блок управления&lt;div&gt;&amp;nbsp;Ноги 1 STM32&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="523" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-51" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.46;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="51.02" y="559.97" />
+              <mxPoint x="51.02" y="449.97" />
+              <mxPoint x="101.02" y="449.97" />
+              <mxPoint x="101.02" y="109.97" />
+              <mxPoint x="514.02" y="109.97" />
+            </Array>
+            <mxPoint x="91.27999999999999" y="559.57" as="sourcePoint" />
+            <mxPoint x="523" y="110.66999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-75" connectable="0" parent="zIDgc_ota-53Qjk4DueN-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="АЦП" vertex="1">
+          <mxGeometry relative="1" x="0.8522" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-59" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.806;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="498" />
+              <mxPoint x="480" y="450" />
+              <mxPoint x="660" y="450" />
+            </Array>
+            <mxPoint x="460" y="498" as="sourcePoint" />
+            <mxPoint x="660" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-85" connectable="0" parent="zIDgc_ota-53Qjk4DueN-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ШИМ" vertex="1">
+          <mxGeometry relative="1" x="0.5904" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-67" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-79" connectable="0" parent="zIDgc_ota-53Qjk4DueN-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ЦИФ" vertex="1">
+          <mxGeometry relative="1" x="-0.2044" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-69" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="zIDgc_ota-53Qjk4DueN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-78" connectable="0" parent="zIDgc_ota-53Qjk4DueN-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ЦИФ" vertex="1">
+          <mxGeometry relative="1" x="0.2857" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-91" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-87" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-98" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-87" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039.9999999999998" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-99" connectable="0" parent="zIDgc_ota-53Qjk4DueN-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UART" vertex="1">
+          <mxGeometry relative="1" x="0.0893" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Блок управления&lt;div&gt;Платформой&lt;/div&gt;&lt;div&gt;STM32&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="790" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-88" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="730" y="580" as="sourcePoint" />
+            <mxPoint x="730" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-90" connectable="0" parent="zIDgc_ota-53Qjk4DueN-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;ШИНА SPI&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0263" y="-2" as="geometry">
+            <mxPoint x="-2" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-96" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-89" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;К Блокам Ноги 2, 3, 4&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="580" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Микрокомпьютер&amp;nbsp;&lt;div&gt;Бортовой&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="1040" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ЛИДАР" vertex="1">
+          <mxGeometry height="50" width="100" x="780" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RGB Камеры" vertex="1">
+          <mxGeometry height="50" width="100" x="890" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Дальномеры" vertex="1">
+          <mxGeometry height="50" width="100" x="1000" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-105" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-104" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.707;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Инерциальный блок" vertex="1">
+          <mxGeometry height="50" width="100" x="1110" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-106" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-103" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="330" />
+              <mxPoint x="1147" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-107" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-102" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="320" />
+              <mxPoint x="1134" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIDgc_ota-53Qjk4DueN-108" edge="1" parent="1" source="zIDgc_ota-53Qjk4DueN-101" style="edgeStyle=orthogonalEdgeStyle;shape=filledEdge;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" target="zIDgc_ota-53Qjk4DueN-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="310" />
+              <mxPoint x="1119" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
