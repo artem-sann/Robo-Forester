@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=+12V Pin=B1_A2-1
+Removed Pin From Net: NetName=GND Pin=B1_A2-4
+Removed Pin From Net: NetName=GND Pin=B2_A2-5
+Removed Pin From Net: NetName=+12V Pin=B3_A2-1
+Removed Pin From Net: NetName=GND Pin=B3_A2-4
+Removed Pin From Net: NetName=+12V Pin=B5_A2-1
+Removed Pin From Net: NetName=GND Pin=B5_A2-4
+Removed Pin From Net: NetName=+12V Pin=D3_A2-2
+Removed Pin From Net: NetName=+12V Pin=D4_A2-2
+Removed Pin From Net: NetName=NetB2_A1_8 Pin=D5_A1-4
+Removed Pin From Net: NetName=GND Pin=D5_A2-3
+Removed Pin From Net: NetName=+12V Pin=D6_A2-2
+Removed Pin From Net: NetName=GND Pin=D13_A2-2
+Removed Pin From Net: NetName=+3.3V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=+5V Pin=J4-7
+Removed Pin From Net: NetName=GND Pin=J4-8
+Removed Pin From Net: NetName=+12V Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=Q1_A2-1
+Removed Pin From Net: NetName=GND Pin=Q1_A2-2
+Removed Pin From Net: NetName=GND Pin=Q1_A2-3
+Removed Pin From Net: NetName=+12V Pin=Q2_A2-5
+Removed Pin From Net: NetName=+12V Pin=Q2_A2-6
+Removed Pin From Net: NetName=+12V Pin=Q2_A2-7
+Removed Pin From Net: NetName=+12V Pin=Q2_A2-8
+Removed Pin From Net: NetName=GND Pin=Q3_A2-1
+Removed Pin From Net: NetName=GND Pin=Q3_A2-2
+Removed Pin From Net: NetName=GND Pin=Q3_A2-3
+Removed Pin From Net: NetName=+12V Pin=Q4_A2-5
+Removed Pin From Net: NetName=+12V Pin=Q4_A2-6
+Removed Pin From Net: NetName=+12V Pin=Q4_A2-7
+Removed Pin From Net: NetName=+12V Pin=Q4_A2-8
+Removed Pin From Net: NetName=GND Pin=Q5_A2-1
+Removed Pin From Net: NetName=GND Pin=Q5_A2-2
+Removed Pin From Net: NetName=GND Pin=Q5_A2-3
+Removed Pin From Net: NetName=+12V Pin=Q6_A2-5
+Removed Pin From Net: NetName=+12V Pin=Q6_A2-6
+Removed Pin From Net: NetName=+12V Pin=Q6_A2-7
+Removed Pin From Net: NetName=+12V Pin=Q6_A2-8
+Removed Pin From Net: NetName=+12V Pin=R2_A2-2
+Removed Pin From Net: NetName=GND Pin=R4_A2-1
+Removed Pin From Net: NetName=GND Pin=R7_A2-1
+Removed Pin From Net: NetName=GND Pin=R8_A2-1
+Removed Pin From Net: NetName=GND Pin=R11_A2-1
+Removed Pin From Net: NetName=GND Pin=R13_A2-1
+Removed Member From Class: ClassName=Схема_принципиальная_общая Member=J1
+Removed Member From Class: ClassName=Схема_принципиальная_общая Member=J4
+Change Component Comment : Designator=J3 Old Comment=Encoder_2 New Comment=BM06B-SRSS-TB_LF__SN_
+Change Component Comment : Designator=J6 Old Comment=ST-Link New Comment=4-pin header
+Change Component Comment : Designator=J5 Old Comment=UART New Comment=BM04B-SRSS-TB_LFSN_
+Change Component Designator: OldDesignator=B1_A1 NewDesignator=B1
+Change Component Designator: OldDesignator=B2_A1 NewDesignator=B2
+Change Component Designator: OldDesignator=B3_A1 NewDesignator=B3
+Change Component Designator: OldDesignator=B4_A1 NewDesignator=B4
+Change Component Designator: OldDesignator=B5_A1 NewDesignator=B5
+Change Component Designator: OldDesignator=C2_A1 NewDesignator=C2
+Change Component Designator: OldDesignator=C3_A1 NewDesignator=C3
+Change Component Designator: OldDesignator=C4_A1 NewDesignator=C4
+Change Component Designator: OldDesignator=D3_A1 NewDesignator=D3
+Change Component Designator: OldDesignator=D4_A1 NewDesignator=D4
+Change Component Designator: OldDesignator=D5_A1 NewDesignator=D5
+Change Component Designator: OldDesignator=D6_A1 NewDesignator=D6
+Change Component Designator: OldDesignator=D7_A1 NewDesignator=D7
+Change Component Designator: OldDesignator=D8_A1 NewDesignator=D8
+Change Component Designator: OldDesignator=D9_A1 NewDesignator=D9
+Change Component Designator: OldDesignator=D10_A1 NewDesignator=D10
+Change Component Designator: OldDesignator=D11_A1 NewDesignator=D11
+Change Component Designator: OldDesignator=D12_A1 NewDesignator=D12
+Change Component Designator: OldDesignator=D13_A1 NewDesignator=D13
+Change Component Designator: OldDesignator=Q1_A1 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q2_A1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q3_A1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q4_A1 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q5_A1 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q6_A1 NewDesignator=Q6
+Change Component Designator: OldDesignator=R1_A1 NewDesignator=R1
+Change Component Designator: OldDesignator=R2_A1 NewDesignator=R2
+Change Component Designator: OldDesignator=R3_A1 NewDesignator=R3
+Change Component Designator: OldDesignator=R4_A1 NewDesignator=R4
+Change Component Designator: OldDesignator=R5_A1 NewDesignator=R5
+Change Component Designator: OldDesignator=R6_A1 NewDesignator=R6
+Change Component Designator: OldDesignator=R7_A1 NewDesignator=R7
+Change Component Designator: OldDesignator=R8_A1 NewDesignator=R8
+Change Component Designator: OldDesignator=R9_A1 NewDesignator=R9
+Change Component Designator: OldDesignator=R10_A1 NewDesignator=R10
+Change Component Designator: OldDesignator=R11_A1 NewDesignator=R11
+Change Component Designator: OldDesignator=R12_A1 NewDesignator=R12
+Change Component Designator: OldDesignator=R13_A1 NewDesignator=R13
+Added Component: Designator=F?(Fuze_LB250LVF)
+Added Component: Designator=J?(MOLEX_430450800)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "430450800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_430450800)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "430450800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_430450800)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "430450800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_430450800)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "430450800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=VAR?(Varistor_20K391)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found DIODE: SMA
+Add component: Footprint Not Found DPAK
+Added Pin To Net: NetName=NetJ2_1 Pin=B1-6
+Added Pin To Net: NetName=NetJ2_2 Pin=B3-6
+Added Pin To Net: NetName=NetJ2_3 Pin=B5-6
+Added Pin To Net: NetName=NetJ2_1 Pin=C2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=C3-1
+Added Pin To Net: NetName=NetJ2_3 Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=D5-4
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=VAR?-1
+Added Pin To Net: NetName=+12V Pin=VAR?-2
+Add Pin To Net: Unknown Pin: Pin VD?-2
+Add Pin To Net: Unknown Pin: Pin VT?-2
+Change Net Name : Old Net Name=AB_A1 New Net Name=AB
+Change Net Name : Old Net Name=AT_A1 New Net Name=AT
+Change Net Name : Old Net Name=BB_A1 New Net Name=BB
+Change Net Name : Old Net Name=BT_A1 New Net Name=BT
+Change Net Name : Old Net Name=CB_A1 New Net Name=CB
+Change Net Name : Old Net Name=CT_A1 New Net Name=CT
+Change Net Name : Old Net Name=Ha_A1 New Net Name=Ha
+Change Net Name : Old Net Name=Hb_A1 New Net Name=Hb
+Change Net Name : Old Net Name=Hc_A1 New Net Name=Hc
+Change Net Name : Old Net Name=NetB1_A1_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_A1_7 New Net Name=NetB1_7
+Change Net Name : Old Net Name=NetB1_A1_8 New Net Name=NetB1_8
+Change Net Name : Old Net Name=NetB2_A1_3 New Net Name=NetB2_3
+Change Net Name : Old Net Name=NetB2_A1_6 New Net Name=NetB2_6
+Change Net Name : Old Net Name=NetB2_A1_8 New Net Name=NetB2_8
+Change Net Name : Old Net Name=NetB3_A1_5 New Net Name=NetB3_5
+Change Net Name : Old Net Name=NetB3_A1_7 New Net Name=NetB3_7
+Change Net Name : Old Net Name=NetB3_A1_8 New Net Name=NetB3_8
+Change Net Name : Old Net Name=NetB4_A1_2 New Net Name=NetB4_2
+Change Net Name : Old Net Name=NetB4_A1_4 New Net Name=NetB4_4
+Change Net Name : Old Net Name=NetB4_A1_13 New Net Name=NetB4_13
+Change Net Name : Old Net Name=NetB4_A1_15 New Net Name=NetB4_15
+Change Net Name : Old Net Name=NetB5_A1_5 New Net Name=NetB5_5
+Change Net Name : Old Net Name=NetB5_A1_7 New Net Name=NetB5_7
+Change Net Name : Old Net Name=NetB5_A1_8 New Net Name=NetB5_8
+Change Net Name : Old Net Name=NetD5_A1_6 New Net Name=NetD5_6
+Change Net Name : Old Net Name=NetD7_A1_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD8_A1_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD9_A1_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD10_A1_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD11_A1_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD12_A1_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetB1_6
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetB3_6
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetB5_6
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=+12V_IN Pin=F?-1
+Added Pin To Net: NetName=+12V_IN Pin=J7-1
+Added Net: Name=+12V_IN
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Net: Name=NetF?_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component F? Fuze_LB250LVF
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J? 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J? 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J? 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J? 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component R? Resistor 0805 100 Ohm
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component VAR? FPV160808G120PLT
+Add Class Member: Failed to add class member : Component VD? Zener diode, 5.1V, 500mW, 0.9V, 17Ohm, SOD-123, -55...+150°C
+Add Class Member: Failed to add class member : Component VT? MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

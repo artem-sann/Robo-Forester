@@ -1,0 +1,10 @@
+Add component: Footprint Not Found DIODE: SMB
+Add component: Footprint Not Found DPAK
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VT1-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT1-3
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J8 430450800
+Add Class Member: Failed to add class member : Component VD1 Zener diode, 5.1V, 500mW, 0.9V, 17Ohm, SOD-123, -55...+150°C
+Add Class Member: Failed to add class member : Component VT1 MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C

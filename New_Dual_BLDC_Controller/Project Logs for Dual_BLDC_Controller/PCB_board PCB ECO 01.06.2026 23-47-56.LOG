@@ -1,0 +1,33 @@
+Added Component: Designator=VD1(DIODE: SMB)
+Add component (AddParameter): Name = "Current"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MMSZ5231B-7-F/MMSZ5231B-FDICT-ND/755506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MMSZ5231B-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Zener diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Zener diode, 5.1V, 500mW, 0.9V, 17Ohm, SOD-123, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "0.9V"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(DPAK)
+Add component (AddParameter): Name = "CurrentDS"; Value = "2.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateCharge"; Value = "2.9nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/infineon-technologies/IRLML2246TRPBF/IRLML2246TRPBFCT-ND/2639576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputCapacitor"; Value = "220pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "2.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IRFZ44N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS"; Value = "135mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "MOSFET P-channel transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDS"; Value = "20V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_2 Pin=VD1-1
+Added Pin To Net: NetName=+12V Pin=VD1-2
+Added Pin To Net: NetName=NetR14_2 Pin=VT1-1
+Added Pin To Net: NetName=+12V Pin=VT1-2
+Added Pin To Net: NetName=NetF1_2 Pin=VT1-3
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component VD1 Zener diode, 5.1V, 500mW, 0.9V, 17Ohm, SOD-123, -55...+150°C
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component VT1 MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C

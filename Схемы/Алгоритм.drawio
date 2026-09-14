@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="S6IoXwOibgUmRI7EuGuC">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vOYPf6uor6D92ia8dQuG-3" edge="1" parent="1" source="vOYPf6uor6D92ia8dQuG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vOYPf6uor6D92ia8dQuG-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1) Сбор данных (Перемещение каждого привода на +Δθ и -Δθ)" vertex="1">
+          <mxGeometry height="70" width="120" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-5" edge="1" parent="1" source="vOYPf6uor6D92ia8dQuG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vOYPf6uor6D92ia8dQuG-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2) Построение графиков и формирование вектора P для каждого привода" vertex="1">
+          <mxGeometry height="70" width="150" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-8" edge="1" parent="1" source="vOYPf6uor6D92ia8dQuG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vOYPf6uor6D92ia8dQuG-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3) Формирование групп векторов для каждой группы приводов" vertex="1">
+          <mxGeometry height="70" width="150" x="450" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-9" edge="1" parent="1" source="vOYPf6uor6D92ia8dQuG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vOYPf6uor6D92ia8dQuG-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4) Статистический анализ внутри группы" vertex="1">
+          <mxGeometry height="70" width="150" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vOYPf6uor6D92ia8dQuG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5) Классификация неисправности и формирование отчета" vertex="1">
+          <mxGeometry height="70" width="150" x="450" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

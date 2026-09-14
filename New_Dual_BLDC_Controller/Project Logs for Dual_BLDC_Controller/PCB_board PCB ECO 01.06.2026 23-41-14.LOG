@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=VAR? NewDesignator=VAR1
+Add component: Footprint Not Found DIODE: SMA
+Add component: Footprint Not Found DPAK
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J1 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J4 430450800
+Added Member To Class: ClassName=Схема_принципиальная_общая Member=Component J9 430450800
+Add Class Member: Failed to add class member : Component VD1 Zener diode, 5.1V, 500mW, 0.9V, 17Ohm, SOD-123, -55...+150°C
+Add Class Member: Failed to add class member : Component VT1 MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C

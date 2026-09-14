@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=NetD12_2 Pin=Q5-4
+Removed Pin From Net: NetName=NetB5_6 Pin=Q5-5
+Removed Pin From Net: NetName=NetB5_6 Pin=Q5-6
+Removed Pin From Net: NetName=NetB5_6 Pin=Q5-7
+Removed Pin From Net: NetName=NetB5_6 Pin=Q5-8
+Removed Pin From Net: NetName=NetB5_6 Pin=Q6-1
+Removed Pin From Net: NetName=NetB5_6 Pin=Q6-2
+Removed Pin From Net: NetName=NetB5_6 Pin=Q6-3
+Removed Pin From Net: NetName=NetD11_2 Pin=Q6-4
+Removed Pin From Net: NetName=+12V Pin=Q6-5
+Removed Pin From Net: NetName=+12V Pin=Q6-6
+Removed Pin From Net: NetName=+12V Pin=Q6-7
+Removed Pin From Net: NetName=+12V Pin=Q6-8
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=J4-1
+Added Pin To Net: NetName=+5V Pin=J8-1
+Added Pin To Net: NetName=+5V Pin=J9-1
+Added Pin To Net: NetName=NetB5_6 Pin=Q5-1
+Added Pin To Net: NetName=NetB5_6 Pin=Q5-2
+Added Pin To Net: NetName=NetB5_6 Pin=Q5-3
+Added Pin To Net: NetName=NetD11_2 Pin=Q5-4
+Added Pin To Net: NetName=+12V Pin=Q5-5
+Added Pin To Net: NetName=+12V Pin=Q5-6
+Added Pin To Net: NetName=+12V Pin=Q5-7
+Added Pin To Net: NetName=+12V Pin=Q5-8
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetD12_2 Pin=Q6-4
+Added Pin To Net: NetName=NetB5_6 Pin=Q6-5
+Added Pin To Net: NetName=NetB5_6 Pin=Q6-6
+Added Pin To Net: NetName=NetB5_6 Pin=Q6-7
+Added Pin To Net: NetName=NetB5_6 Pin=Q6-8
+Added Pin To Net: NetName=Direct_1 Pin=D1-18
+Added Pin To Net: NetName=Direct_1 Pin=J1-4
+Added Net: Name=Direct_1
+Added Pin To Net: NetName=Direct_3 Pin=D1-19
+Added Pin To Net: NetName=Direct_3 Pin=J4-4
+Added Net: Name=Direct_3
+Added Pin To Net: NetName=Direct_4 Pin=D1-20
+Added Pin To Net: NetName=Direct_4 Pin=J8-4
+Added Net: Name=Direct_4
+Added Pin To Net: NetName=Direct_5 Pin=D1-21
+Added Pin To Net: NetName=Direct_5 Pin=J9-4
+Added Net: Name=Direct_5
+Added Pin To Net: NetName=ENC_1_SIG Pin=D1-8
+Added Pin To Net: NetName=ENC_1_SIG Pin=J1-3
+Added Net: Name=ENC_1_SIG
+Added Pin To Net: NetName=ENC_2_SIG Pin=D1-9
+Added Pin To Net: NetName=ENC_2_SIG Pin=J3-2
+Added Net: Name=ENC_2_SIG
+Added Pin To Net: NetName=ENC_3_SIG Pin=D1-10
+Added Pin To Net: NetName=ENC_3_SIG Pin=J4-3
+Added Net: Name=ENC_3_SIG
+Added Pin To Net: NetName=ENC_4_SIG Pin=D1-11
+Added Pin To Net: NetName=ENC_4_SIG Pin=J8-3
+Added Net: Name=ENC_4_SIG
+Added Pin To Net: NetName=ENC_5_SIG Pin=D1-12
+Added Pin To Net: NetName=ENC_5_SIG Pin=J9-3
+Added Net: Name=ENC_5_SIG
+Added Pin To Net: NetName=M1_PWM Pin=D1-40
+Added Pin To Net: NetName=M1_PWM Pin=J1-2
+Added Net: Name=M1_PWM
+Added Pin To Net: NetName=M3_PWM Pin=D1-38
+Added Pin To Net: NetName=M3_PWM Pin=J4-2
+Added Net: Name=M3_PWM
+Added Pin To Net: NetName=M4_PWM Pin=D1-36
+Added Pin To Net: NetName=M4_PWM Pin=J8-2
+Added Net: Name=M4_PWM
+Added Pin To Net: NetName=M5_PWM Pin=D1-44
+Added Pin To Net: NetName=M5_PWM Pin=J9-2
+Added Net: Name=M5_PWM
