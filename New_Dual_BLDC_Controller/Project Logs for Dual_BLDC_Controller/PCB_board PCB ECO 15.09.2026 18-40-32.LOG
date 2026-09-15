@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J5-MP1
+Change Component Comment : Designator=J6 Old Comment=ST-LINK New Comment=4-pin header
+Added Pin To Net: NetName=+3.3V Pin=J1-5
+Added Pin To Net: NetName=+3.3V Pin=J4-5
+Added Pin To Net: NetName=+3.3V Pin=J8-5
+Added Pin To Net: NetName=+3.3V Pin=J9-5
+Added Pin To Net: NetName=BTN_END Pin=D1-35
+Added Pin To Net: NetName=BTN_END Pin=J3-3
+Added Net: Name=BTN_END
+Added Pin To Net: NetName=BTN_START Pin=J3-4
+Added Net: Name=BTN_START
+Added Pin To Net: NetName=SPI_CLK Pin=D1-55
+Added Pin To Net: NetName=SPI_CLK Pin=J5-4
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_CS Pin=D1-54
+Added Pin To Net: NetName=SPI_CS Pin=J5-MP1
+Added Net: Name=SPI_CS
+Added Pin To Net: NetName=SPI_MISO Pin=D1-53
+Added Pin To Net: NetName=SPI_MISO Pin=J5-2
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=D1-52
+Added Pin To Net: NetName=SPI_MOSI Pin=J5-3
+Added Net: Name=SPI_MOSI
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
